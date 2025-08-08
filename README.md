@@ -45,6 +45,8 @@ Hi! I’m **Linkon Tripura**, a tech enthusiast with a strong background in sale
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkonjt)
 [![Email](https://img.shields.io/badge/Email-linkon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linkon@gmail.com)
 
+Phone: +880 1670658012
+
 ---
 
 ## 📊 **GitHub Stats**
