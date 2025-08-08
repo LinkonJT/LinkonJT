@@ -1,13 +1,13 @@
 <!-- Banner Image -->
 ![Banner](https://i.ibb.co/ZHj4wDg/github-banner.png) 
 
-# **Linkon Juwel Tripura**  
-### Full Stack Web Developer | MERN Stack Enthusiast  
+# **Linkon Tripura**  
+### Front End Web Developer | MERN Stack Enthusiast  
 
 ---
 
 ## 👋 **About Me**
-Hi! I’m **Linkon Juwel Tripura**, a tech enthusiast with a strong background in sales, business development, and customer service. After years in the corporate world, I transitioned into the coding space — now building responsive and scalable web applications. My journey blends analytical thinking from finance with creativity in development, making me passionate about delivering impactful user experiences.
+Hi! I’m **Linkon Tripura**, a tech enthusiast with a strong background in sales, business development, and customer service. After years in the corporate world, I transitioned into the coding space — now building responsive and scalable web applications. My journey blends analytical thinking from finance with creativity in development, making me passionate about delivering impactful user experiences.
 
 ---
 
