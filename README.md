@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/ZHj4wDg/github-banner.png) 
+![Banner](https://i.ibb.co.com/tMdnq3CC/pic1.png) 
 
 # **Linkon Tripura**  
 ### Front End Web Developer | MERN Stack Enthusiast  
